@@ -1,0 +1,42 @@
+[
+    {
+        "vehicle_id": 3,
+        "speed": 101.25,
+        "timestamp": "2025-05-24 22:34:43",
+        "license_plate": "7AC 3391",
+        "vehicle_image_path": "speed_violations\\violations\\vehicle_3.jpg",
+        "plate_image_path": "speed_violations\\violations\\plate_3.jpg"
+    },
+    {
+        "vehicle_id": 5,
+        "speed": 103.84615384615385,
+        "timestamp": "2025-05-24 22:34:52",
+        "license_plate": "3AE 5211",
+        "vehicle_image_path": "speed_violations\\violations\\vehicle_5.jpg",
+        "plate_image_path": "speed_violations\\violations\\plate_5.jpg"
+    },
+    {
+        "vehicle_id": 7,
+        "speed": 159.23076923076923,
+        "timestamp": "2025-05-24 22:35:44",
+        "license_plate": "VIV 3432",
+        "vehicle_image_path": "speed_violations\\violations\\vehicle_7.jpg",
+        "plate_image_path": "speed_violations\\violations\\plate_7.jpg"
+    },
+    {
+        "vehicle_id": 10,
+        "speed": 100.8,
+        "timestamp": "2025-05-24 22:39:57",
+        "license_plate": "5AN 8938",
+        "vehicle_image_path": "speed_violations\\violations\\vehicle_10.jpg",
+        "plate_image_path": "speed_violations\\violations\\plate_10.jpg"
+    },
+    {
+        "vehicle_id": 13,
+        "speed": 180.0,
+        "timestamp": "2025-05-24 22:42:31",
+        "license_plate": "7AJ 0749",
+        "vehicle_image_path": "speed_violations\\violations\\vehicle_13.jpg",
+        "plate_image_path": "speed_violations\\violations\\plate_13.jpg"
+    }
+]
