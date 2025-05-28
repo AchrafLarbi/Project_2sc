@@ -127,7 +127,7 @@ def parse_arguments() -> argparse.Namespace:
         "--api_key",
         help="API key for Gemini OCR",
         type=str,
-        default="AIzaSyA-ey2zTapBuUvNCDVaR8YpXfymctSjJ5E"
+        default=""
     )    
     parser.add_argument(
         "--output_file",
