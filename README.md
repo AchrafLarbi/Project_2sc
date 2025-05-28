@@ -24,9 +24,9 @@ This project aims to create an intelligent traffic management system that can de
 
 ### Vehicle Detection and Tracking
 
-Vehicle detection is implemented using YOLOv8, a state-of-the-art object detection model that provides accurate real-time detection:
+Vehicle detection is implemented using YOLOv11, a state-of-the-art object detection model that provides accurate real-time detection:
 
-- `ultralytics_example.py`: Example implementation of YOLOv8 for vehicle detection
+- `ultralytics_example.py`: Example implementation of YOLOv11 for vehicle detection
 - `detect.ipynb`: Jupyter notebook for vehicle detection experiments
 - Pre-trained models: `yolo11m.pt`, `yolo11n.pt`, and `best.pt` (fine-tuned for our specific use case)
 - Integration with DeepSort for reliable vehicle tracking across video frames
@@ -217,7 +217,7 @@ python PlateDetection/app.py --image_path violations/vehicle_123.jpg
 
 ### Vehicle Detection Performance
 
-The YOLOv8 model achieves high accuracy in detecting various vehicle types across different lighting and weather conditions. The system can detect and classify:
+The YOLOv11 model achieves high accuracy in detecting various vehicle types across different lighting and weather conditions. The system can detect and classify:
 
 - Cars
 - Trucks
@@ -267,7 +267,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-- YOLOv8 by Ultralytics for object detection
+- YOLOv11 by Ultralytics for object detection
 - DeepSort for object tracking
 - TensorFlow/Keras for deep learning implementations
 - OpenCV for computer vision processing
